@@ -2,3 +2,4 @@
 - water
 - salt
 - pasta
+- olive oil
